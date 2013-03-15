@@ -8,7 +8,7 @@ Rui G. M. Neves
 Unidade de Investigação Educação e Desenvolvimento (UIED) e Departamento de Ciências Sociais Aplicadas (DCSA), 
 Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa (FCT/UNL), 
 Monte da Caparica, 2829-516 Caparica, Portugal.  
-Corresponding author. Telephone: +351 212 948 503, extension 10418. Fax: +351 212 948 326
+Corresponding author. Telephone: +351 212 948 503, extension 10418. Fax: +351 212 948 326.
 Email: rgn@fct.unl.pt.
 
 Maria C. Neves
