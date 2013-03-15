@@ -48,4 +48,4 @@ enhancements, like 2D and 3D map representations as kindly suggested by one of t
 future versions of Modellus, provided adequate funding is available for the programming and testing phases 
 involving appropriate adaptation of the Modellus interface window. Please visit our webpage at 
 http://modellus.fct.unl.pt for updates. We welcome all suggestions and collaborations that may help us in this 
-process. Please send an email directly to us or to modellus@fct.unl.pt. 
+process. Please send an email directly to us or to modellus@fct.unl.pt . 
